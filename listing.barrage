@@ -1,0 +1,37 @@
+# autonomous-web-agent-local
+
+> Early Python work on a local autonomous web agent. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/autonomous-web-agent-local.
+
+## How it works (plain English)
+1. Keep the original repo as the place for agent files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source to run it.
+
+## Key ideas
+- Local agent (runs on this machine)
+- Web agent (acts on pages)
+- Python source
+
+## The actual code
+```
+# source: fitzyracing1/autonomous-web-agent-local
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the local agent repo”
+
+## Decisions the program makes
+- If a reader needs the agent → send them to the source
+
+## What a person would notice
+A named wrap on a local web-agent door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
